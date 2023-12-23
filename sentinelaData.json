@@ -1,0 +1,2090 @@
+[
+  {
+    "ID": "0001",
+    "Arquivo": "sentinela1_001.jpg",
+    "Edicao": 105,
+    "Ano": "1950",
+    "Mes": "06",
+    "Dia": 25
+  },
+  {
+    "ID": "0005",
+    "Arquivo": "sentinela1_005.jpg",
+    "Edicao": 112,
+    "Ano": "1950",
+    "Mes": "09",
+    "Dia": 24
+  },
+  {
+    "ID": "0009",
+    "Arquivo": "sentinela1_009.jpg",
+    "Edicao": 125,
+    "Ano": 1951,
+    "Mes": "04",
+    "Dia": "08"
+  },
+  {
+    "ID": "0013",
+    "Arquivo": "sentinela1_013.jpg",
+    "Edicao": 146,
+    "Ano": "1951",
+    "Mes": 11,
+    "Dia": 18
+  },
+  {
+    "ID": "0017",
+    "Arquivo": "sentinela1_017.jpg",
+    "Edicao": 148,
+    "Ano": 1951,
+    "Mes": 12,
+    "Dia": 25
+  },
+  {
+    "ID": "0073",
+    "Arquivo": "sentinela2_001.jpg",
+    "Edicao": "180\u000b181\u000b182",
+    "Ano": 1953,
+    "Mes": "07",
+    "Dia": 26
+  },
+  {
+    "ID": "0077",
+    "Arquivo": "sentinela2_005.jpg",
+    "Edicao": "especial",
+    "Ano": "XXXX",
+    "Mes": "XX",
+    "Dia": "XX"
+  },
+  {
+    "ID": "0173",
+    "Arquivo": "sentinela2_101.jpg",
+    "Edicao": 185,
+    "Ano": 1953,
+    "Mes": 10,
+    "Dia": 11
+  },
+  {
+    "ID": "0177",
+    "Arquivo": "sentinela2_105.jpg",
+    "Edicao": 186,
+    "Ano": 1953,
+    "Mes": 10,
+    "Dia": 25
+  },
+  {
+    "ID": "0181",
+    "Arquivo": "sentinela2_109.jpg",
+    "Edicao": 187,
+    "Ano": 1953,
+    "Mes": 11,
+    "Dia": 22
+  },
+  {
+    "ID": "0185",
+    "Arquivo": "sentinela2_113.jpg",
+    "Edicao": 191,
+    "Ano": 1954,
+    "Mes": "01",
+    "Dia": 31
+  },
+  {
+    "ID": "0189",
+    "Arquivo": "sentinela2_117.jpg",
+    "Edicao": 192,
+    "Ano": 1954,
+    "Mes": "02",
+    "Dia": 14
+  },
+  {
+    "ID": "0193",
+    "Arquivo": "sentinela2_121.jpg",
+    "Edicao": 193,
+    "Ano": 1954,
+    "Mes": "02",
+    "Dia": 28
+  },
+  {
+    "ID": "0197",
+    "Arquivo": "sentinela2_125.jpg",
+    "Edicao": 195,
+    "Ano": 1954,
+    "Mes": "03",
+    "Dia": 28
+  },
+  {
+    "ID": "0201",
+    "Arquivo": "sentinela2_129.jpg",
+    "Edicao": 196,
+    "Ano": 1954,
+    "Mes": "04",
+    "Dia": 11
+  },
+  {
+    "ID": "0205",
+    "Arquivo": "sentinela2_133.jpg",
+    "Edicao": 197,
+    "Ano": 1954,
+    "Mes": "04",
+    "Dia": 25
+  },
+  {
+    "ID": "0209",
+    "Arquivo": "sentinela2_137.jpg",
+    "Edicao": 200,
+    "Ano": 1954,
+    "Mes": "05",
+    "Dia": 23
+  },
+  {
+    "ID": "0213",
+    "Arquivo": "sentinela2_141.jpg",
+    "Edicao": 201,
+    "Ano": 1954,
+    "Mes": "06",
+    "Dia": "06"
+  },
+  {
+    "ID": "0217",
+    "Arquivo": "sentinela2_145.jpg",
+    "Edicao": 203,
+    "Ano": 1954,
+    "Mes": "07",
+    "Dia": "04"
+  },
+  {
+    "ID": "0221",
+    "Arquivo": "sentinela2_149.jpg",
+    "Edicao": 204,
+    "Ano": 1954,
+    "Mes": "07",
+    "Dia": 11
+  },
+  {
+    "ID": "0225",
+    "Arquivo": "sentinela2_153.jpg",
+    "Edicao": 205,
+    "Ano": 1954,
+    "Mes": "07",
+    "Dia": 18
+  },
+  {
+    "ID": "0229",
+    "Arquivo": "sentinela2_157.jpg",
+    "Edicao": 207,
+    "Ano": 1954,
+    "Mes": "08",
+    "Dia": "01"
+  },
+  {
+    "ID": "0233",
+    "Arquivo": "sentinela2_161.jpg",
+    "Edicao": 208,
+    "Ano": 1954,
+    "Mes": "08",
+    "Dia": "08"
+  },
+  {
+    "ID": "0237",
+    "Arquivo": "sentinela2_165.jpg",
+    "Edicao": 210,
+    "Ano": 1954,
+    "Mes": "08",
+    "Dia": 22
+  },
+  {
+    "ID": "0241",
+    "Arquivo": "sentinela2_169.jpg",
+    "Edicao": 211,
+    "Ano": 1954,
+    "Mes": "08",
+    "Dia": 29
+  },
+  {
+    "ID": "0245",
+    "Arquivo": "sentinela2_173.jpg",
+    "Edicao": 212,
+    "Ano": 1954,
+    "Mes": "09",
+    "Dia": "07"
+  },
+  {
+    "ID": "0253",
+    "Arquivo": "sentinela2_181.jpg",
+    "Edicao": 213,
+    "Ano": 1954,
+    "Mes": "09",
+    "Dia": 19
+  },
+  {
+    "ID": "0257",
+    "Arquivo": "sentinela2_185.jpg",
+    "Edicao": 214,
+    "Ano": 1954,
+    "Mes": "09",
+    "Dia": 26
+  },
+  {
+    "ID": "0261",
+    "Arquivo": "sentinela2_189.jpg",
+    "Edicao": 215,
+    "Ano": 1954,
+    "Mes": 10,
+    "Dia": "01"
+  },
+  {
+    "ID": "0265",
+    "Arquivo": "sentinela2_193.jpg",
+    "Edicao": 216,
+    "Ano": 1954,
+    "Mes": 10,
+    "Dia": 10
+  },
+  {
+    "ID": "0269",
+    "Arquivo": "sentinela2_197.jpg",
+    "Edicao": 217,
+    "Ano": 1954,
+    "Mes": 10,
+    "Dia": 17
+  },
+  {
+    "ID": "0273",
+    "Arquivo": "sentinela2_201.jpg",
+    "Edicao": 218,
+    "Ano": 1954,
+    "Mes": 10,
+    "Dia": 24
+  },
+  {
+    "ID": "0277",
+    "Arquivo": "sentinela2_205.jpg",
+    "Edicao": 219,
+    "Ano": 1954,
+    "Mes": 10,
+    "Dia": 31
+  },
+  {
+    "ID": "0281",
+    "Arquivo": "sentinela2_209.jpg",
+    "Edicao": 220,
+    "Ano": 1954,
+    "Mes": 11,
+    "Dia": "07"
+  },
+  {
+    "ID": "0285",
+    "Arquivo": "sentinela2_213.jpg",
+    "Edicao": 222,
+    "Ano": 1954,
+    "Mes": 11,
+    "Dia": 21
+  },
+  {
+    "ID": "0289",
+    "Arquivo": "sentinela2_217.jpg",
+    "Edicao": 224,
+    "Ano": 1954,
+    "Mes": 12,
+    "Dia": "05"
+  },
+  {
+    "ID": "0293",
+    "Arquivo": "sentinela2_221.jpg",
+    "Edicao": 225,
+    "Ano": 1954,
+    "Mes": 12,
+    "Dia": 12
+  },
+  {
+    "ID": "0297",
+    "Arquivo": "sentinela2_225.jpg",
+    "Edicao": 226,
+    "Ano": 1954,
+    "Mes": 12,
+    "Dia": 25
+  },
+  {
+    "ID": "0169",
+    "Arquivo": "sentinela2_097.jpg",
+    "Edicao": 184,
+    "Ano": 1953,
+    "Mes": "09",
+    "Dia": 27
+  },
+  {
+    "ID": "0025",
+    "Arquivo": "sentinela1_025.jpg",
+    "Edicao": 154,
+    "Ano": 1952,
+    "Mes": "05",
+    "Dia": "01"
+  },
+  {
+    "ID": "0029",
+    "Arquivo": "sentinela1_029.jpg",
+    "Edicao": 155,
+    "Ano": 1952,
+    "Mes": "05",
+    "Dia": 11
+  },
+  {
+    "ID": "0304",
+    "Arquivo": "sentinela3_001.jpg",
+    "Edicao": 227,
+    "Ano": 1955,
+    "Mes": "01",
+    "Dia": "01"
+  },
+  {
+    "ID": "0310",
+    "Arquivo": "sentinela3_007.jpg",
+    "Edicao": 228,
+    "Ano": 1955,
+    "Mes": "01",
+    "Dia": "01"
+  },
+  {
+    "ID": "0404",
+    "Arquivo": "sentinela3_101.jpg",
+    "Edicao": 251,
+    "Ano": 1955,
+    "Mes": "06",
+    "Dia": 25
+  },
+  {
+    "ID": "0408",
+    "Arquivo": "sentinela3_105.jpg",
+    "Edicao": 252,
+    "Ano": 1955,
+    "Mes": "07",
+    "Dia": "02"
+  },
+  {
+    "ID": "0412",
+    "Arquivo": "sentinela3_109.jpg",
+    "Edicao": 253,
+    "Ano": 1955,
+    "Mes": "07",
+    "Dia": "09"
+  },
+  {
+    "ID": "0314",
+    "Arquivo": "sentinela3_011.jpg",
+    "Edicao": 230,
+    "Ano": 1955,
+    "Mes": "01",
+    "Dia": 26
+  },
+  {
+    "ID": "0416",
+    "Arquivo": "sentinela3_113.jpg",
+    "Edicao": 254,
+    "Ano": 1955,
+    "Mes": "07",
+    "Dia": 16
+  },
+  {
+    "ID": "0420",
+    "Arquivo": "sentinela3_117.jpg",
+    "Edicao": 256,
+    "Ano": 1955,
+    "Mes": "07",
+    "Dia": 23
+  },
+  {
+    "ID": "0424",
+    "Arquivo": "sentinela3_121.jpg",
+    "Edicao": 259,
+    "Ano": 1955,
+    "Mes": "08",
+    "Dia": 13
+  },
+  {
+    "ID": "0428",
+    "Arquivo": "sentinela3_125.jpg",
+    "Edicao": 260,
+    "Ano": 1955,
+    "Mes": "08",
+    "Dia": 20
+  },
+  {
+    "ID": "0434",
+    "Arquivo": "sentinela3_131.jpg",
+    "Edicao": 262,
+    "Ano": 1955,
+    "Mes": "09",
+    "Dia": "03"
+  },
+  {
+    "ID": "0438",
+    "Arquivo": "sentinela3_135.jpg",
+    "Edicao": 263,
+    "Ano": 1955,
+    "Mes": "09",
+    "Dia": "07"
+  },
+  {
+    "ID": "0448",
+    "Arquivo": "sentinela3_145.jpg",
+    "Edicao": 264,
+    "Ano": 1955,
+    "Mes": "09",
+    "Dia": 11
+  },
+  {
+    "ID": "0452",
+    "Arquivo": "sentinela3_149.jpg",
+    "Edicao": 265,
+    "Ano": 1955,
+    "Mes": "09",
+    "Dia": 17
+  },
+  {
+    "ID": "0318",
+    "Arquivo": "sentinela3_015.jpg",
+    "Edicao": 231,
+    "Ano": 1955,
+    "Mes": "01",
+    "Dia": 30
+  },
+  {
+    "ID": "0456",
+    "Arquivo": "sentinela3_153.jpg",
+    "Edicao": 266,
+    "Ano": 1955,
+    "Mes": "09",
+    "Dia": 21
+  },
+  {
+    "ID": "0460",
+    "Arquivo": "sentinela3_157.jpg",
+    "Edicao": 268,
+    "Ano": 1955,
+    "Mes": 10,
+    "Dia": "02"
+  },
+  {
+    "ID": "0466",
+    "Arquivo": "sentinela3_163.jpg",
+    "Edicao": 269,
+    "Ano": 1955,
+    "Mes": 10,
+    "Dia": "09"
+  },
+  {
+    "ID": "0470",
+    "Arquivo": "sentinela3_167.jpg",
+    "Edicao": 270,
+    "Ano": 1955,
+    "Mes": 10,
+    "Dia": 30
+  },
+  {
+    "ID": "0474",
+    "Arquivo": "sentinela3_171.jpg",
+    "Edicao": 271,
+    "Ano": 1955,
+    "Mes": 11,
+    "Dia": "05"
+  },
+  {
+    "ID": "0478",
+    "Arquivo": "sentinela3_175.jpg",
+    "Edicao": 275,
+    "Ano": 1955,
+    "Mes": 12,
+    "Dia": "03"
+  },
+  {
+    "ID": "0482",
+    "Arquivo": "sentinela3_179.jpg",
+    "Edicao": 276,
+    "Ano": 1955,
+    "Mes": 12,
+    "Dia": 10
+  },
+  {
+    "ID": "0486",
+    "Arquivo": "sentinela3_183.jpg",
+    "Edicao": 277,
+    "Ano": 1955,
+    "Mes": 12,
+    "Dia": 17
+  },
+  {
+    "ID": "0490",
+    "Arquivo": "sentinela3_187.jpg",
+    "Edicao": 277,
+    "Ano": 1955,
+    "Mes": 12,
+    "Dia": 17
+  },
+  {
+    "ID": "0322",
+    "Arquivo": "sentinela3_019.jpg",
+    "Edicao": 232,
+    "Ano": 1955,
+    "Mes": "02",
+    "Dia": "06"
+  },
+  {
+    "ID": "0494",
+    "Arquivo": "sentinela3_191.jpg",
+    "Edicao": 278,
+    "Ano": 1955,
+    "Mes": 12,
+    "Dia": 25
+  },
+  {
+    "ID": "0504",
+    "Arquivo": "sentinela3_201.jpg",
+    "Edicao": 279,
+    "Ano": 1955,
+    "Mes": 12,
+    "Dia": 31
+  },
+  {
+    "ID": "0326",
+    "Arquivo": "sentinela3_023.jpg",
+    "Edicao": 233,
+    "Ano": 1955,
+    "Mes": "02",
+    "Dia": 13
+  },
+  {
+    "ID": "0330",
+    "Arquivo": "sentinela3_027.jpg",
+    "Edicao": 234,
+    "Ano": 1955,
+    "Mes": "02",
+    "Dia": 20
+  },
+  {
+    "ID": "0334",
+    "Arquivo": "sentinela3_031.jpg",
+    "Edicao": 235,
+    "Ano": 1955,
+    "Mes": "02",
+    "Dia": 27
+  },
+  {
+    "ID": "0338",
+    "Arquivo": "sentinela3_035.jpg",
+    "Edicao": 236,
+    "Ano": 1955,
+    "Mes": "03",
+    "Dia": "06"
+  },
+  {
+    "ID": "0342",
+    "Arquivo": "sentinela3_039.jpg",
+    "Edicao": 238,
+    "Ano": 1955,
+    "Mes": "03",
+    "Dia": 20
+  },
+  {
+    "ID": "0346",
+    "Arquivo": "sentinela3_043.jpg",
+    "Edicao": 239,
+    "Ano": 1955,
+    "Mes": "03",
+    "Dia": 27
+  },
+  {
+    "ID": "0350",
+    "Arquivo": "sentinela3_047.jpg",
+    "Edicao": "240\u000b241\u000b242",
+    "Ano": 1955,
+    "Mes": "04",
+    "Dia": 21
+  },
+  {
+    "ID": "0376",
+    "Arquivo": "sentinela3_073.jpg",
+    "Edicao": 244,
+    "Ano": 1955,
+    "Mes": "05",
+    "Dia": "07"
+  },
+  {
+    "ID": "0380",
+    "Arquivo": "sentinela3_077.jpg",
+    "Edicao": 245,
+    "Ano": 1955,
+    "Mes": "05",
+    "Dia": 14
+  },
+  {
+    "ID": "0384",
+    "Arquivo": "sentinela3_081.jpg",
+    "Edicao": 246,
+    "Ano": 1955,
+    "Mes": "05",
+    "Dia": 21
+  },
+  {
+    "ID": "0388",
+    "Arquivo": "sentinela3_085.jpg",
+    "Edicao": 247,
+    "Ano": 1955,
+    "Mes": "05",
+    "Dia": 28
+  },
+  {
+    "ID": "0392",
+    "Arquivo": "sentinela3_089.jpg",
+    "Edicao": 248,
+    "Ano": 1955,
+    "Mes": "06",
+    "Dia": "04"
+  },
+  {
+    "ID": "0396",
+    "Arquivo": "sentinela3_093.jpg",
+    "Edicao": 249,
+    "Ano": 1955,
+    "Mes": "06",
+    "Dia": 11
+  },
+  {
+    "ID": "0400",
+    "Arquivo": "sentinela3_097.jpg",
+    "Edicao": 250,
+    "Ano": 1955,
+    "Mes": "06",
+    "Dia": 18
+  },
+  {
+    "ID": "0033",
+    "Arquivo": "sentinela1_033.jpg",
+    "Edicao": 163,
+    "Ano": 1952,
+    "Mes": "09",
+    "Dia": 28
+  },
+  {
+    "ID": "0037",
+    "Arquivo": "sentinela1_037.jpg",
+    "Edicao": 164,
+    "Ano": 1952,
+    "Mes": 11,
+    "Dia": "09"
+  },
+  {
+    "ID": "0508",
+    "Arquivo": "sentinela4_001.jpg",
+    "Edicao": 280,
+    "Ano": 1956,
+    "Mes": "01",
+    "Dia": "07"
+  },
+  {
+    "ID": "0512",
+    "Arquivo": "sentinela4_005.jpg",
+    "Edicao": 281,
+    "Ano": 1956,
+    "Mes": "01",
+    "Dia": 14
+  },
+  {
+    "ID": "0516",
+    "Arquivo": "sentinela4_009.jpg",
+    "Edicao": 282,
+    "Ano": 1956,
+    "Mes": "01",
+    "Dia": 21
+  },
+  {
+    "ID": "0608",
+    "Arquivo": "sentinela4_101.jpg",
+    "Edicao": "314\u000b315",
+    "Ano": 1956,
+    "Mes": "09",
+    "Dia": "07"
+  },
+  {
+    "ID": "0618",
+    "Arquivo": "sentinela4_111.jpg",
+    "Edicao": 316,
+    "Ano": 1956,
+    "Mes": "09",
+    "Dia": 15
+  },
+  {
+    "ID": "0622",
+    "Arquivo": "sentinela4_115.jpg",
+    "Edicao": 317,
+    "Ano": 1956,
+    "Mes": "09",
+    "Dia": 22
+  },
+  {
+    "ID": "0626",
+    "Arquivo": "sentinela4_119.jpg",
+    "Edicao": 318,
+    "Ano": 1956,
+    "Mes": "09",
+    "Dia": 29
+  },
+  {
+    "ID": "0630",
+    "Arquivo": "sentinela4_123.jpg",
+    "Edicao": 319,
+    "Ano": 1956,
+    "Mes": 10,
+    "Dia": "06"
+  },
+  {
+    "ID": "0634",
+    "Arquivo": "sentinela4_127.jpg",
+    "Edicao": 321,
+    "Ano": 1956,
+    "Mes": 10,
+    "Dia": 20
+  },
+  {
+    "ID": "0520",
+    "Arquivo": "sentinela4_013.jpg",
+    "Edicao": 283,
+    "Ano": 1956,
+    "Mes": "01",
+    "Dia": 28
+  },
+  {
+    "ID": "0638",
+    "Arquivo": "sentinela4_131.jpg",
+    "Edicao": 323,
+    "Ano": 1956,
+    "Mes": 11,
+    "Dia": "03"
+  },
+  {
+    "ID": "0642",
+    "Arquivo": "sentinela4_135.jpg",
+    "Edicao": 324,
+    "Ano": 1956,
+    "Mes": 11,
+    "Dia": 10
+  },
+  {
+    "ID": "0646",
+    "Arquivo": "sentinela4_139.jpg",
+    "Edicao": 325,
+    "Ano": 1956,
+    "Mes": 11,
+    "Dia": 17
+  },
+  {
+    "ID": "0650",
+    "Arquivo": "sentinela4_143.jpg",
+    "Edicao": 326,
+    "Ano": 1956,
+    "Mes": 11,
+    "Dia": 24
+  },
+  {
+    "ID": "0654",
+    "Arquivo": "sentinela4_147.jpg",
+    "Edicao": 327,
+    "Ano": 1956,
+    "Mes": 12,
+    "Dia": "01"
+  },
+  {
+    "ID": "0658",
+    "Arquivo": "sentinela4_151.jpg",
+    "Edicao": 328,
+    "Ano": 1956,
+    "Mes": 12,
+    "Dia": "08"
+  },
+  {
+    "ID": "0524",
+    "Arquivo": "sentinela4_017.jpg",
+    "Edicao": "287",
+    "Ano": 1956,
+    "Mes": "02",
+    "Dia": 25
+  },
+  {
+    "ID": "0528",
+    "Arquivo": "sentinela4_021.jpg",
+    "Edicao": "288",
+    "Ano": 1956,
+    "Mes": "02",
+    "Dia": "03"
+  },
+  {
+    "ID": "0532",
+    "Arquivo": "sentinela4_025.jpg",
+    "Edicao": 290,
+    "Ano": 1956,
+    "Mes": "03",
+    "Dia": 17
+  },
+  {
+    "ID": "0536",
+    "Arquivo": "sentinela4_029.jpg",
+    "Edicao": 292,
+    "Ano": 1956,
+    "Mes": "03",
+    "Dia": 31
+  },
+  {
+    "ID": "0540",
+    "Arquivo": "sentinela4_033.jpg",
+    "Edicao": 294,
+    "Ano": 1956,
+    "Mes": "04",
+    "Dia": 14
+  },
+  {
+    "ID": "0544",
+    "Arquivo": "sentinela4_037.jpg",
+    "Edicao": 293,
+    "Ano": 1956,
+    "Mes": "04",
+    "Dia": "07"
+  },
+  {
+    "ID": "0556",
+    "Arquivo": "sentinela4_049.jpg",
+    "Edicao": 296,
+    "Ano": 1956,
+    "Mes": "04",
+    "Dia": 28
+  },
+  {
+    "ID": "0560",
+    "Arquivo": "sentinela4_053.jpg",
+    "Edicao": 297,
+    "Ano": 1956,
+    "Mes": "05",
+    "Dia": "05"
+  },
+  {
+    "ID": "0564",
+    "Arquivo": "sentinela4_057.jpg",
+    "Edicao": 298,
+    "Ano": 1956,
+    "Mes": "05",
+    "Dia": 12
+  },
+  {
+    "ID": "0568",
+    "Arquivo": "sentinela4_061.jpg",
+    "Edicao": 299,
+    "Ano": 1956,
+    "Mes": "05",
+    "Dia": 19
+  },
+  {
+    "ID": "0572",
+    "Arquivo": "sentinela4_065.jpg",
+    "Edicao": 300,
+    "Ano": 1956,
+    "Mes": "05",
+    "Dia": 26
+  },
+  {
+    "ID": "0576",
+    "Arquivo": "sentinela4_069.jpg",
+    "Edicao": 301,
+    "Ano": 1956,
+    "Mes": "06",
+    "Dia": "02"
+  },
+  {
+    "ID": "0580",
+    "Arquivo": "sentinela4_073.jpg",
+    "Edicao": 302,
+    "Ano": 1956,
+    "Mes": "06",
+    "Dia": "09"
+  },
+  {
+    "ID": "0584",
+    "Arquivo": "sentinela4_077.jpg",
+    "Edicao": 303,
+    "Ano": 1956,
+    "Mes": "06",
+    "Dia": 19
+  },
+  {
+    "ID": "0588",
+    "Arquivo": "sentinela4_081.jpg",
+    "Edicao": 304,
+    "Ano": 1956,
+    "Mes": "06",
+    "Dia": 23
+  },
+  {
+    "ID": "0592",
+    "Arquivo": "sentinela4_085.jpg",
+    "Edicao": 306,
+    "Ano": 1956,
+    "Mes": "07",
+    "Dia": "07"
+  },
+  {
+    "ID": "0596",
+    "Arquivo": "sentinela4_089.jpg",
+    "Edicao": 309,
+    "Ano": 1956,
+    "Mes": "07",
+    "Dia": 28
+  },
+  {
+    "ID": "0600",
+    "Arquivo": "sentinela4_093.jpg",
+    "Edicao": 311,
+    "Ano": 1956,
+    "Mes": "08",
+    "Dia": 11
+  },
+  {
+    "ID": "0604",
+    "Arquivo": "sentinela4_097.jpg",
+    "Edicao": 312,
+    "Ano": 1956,
+    "Mes": "08",
+    "Dia": 18
+  },
+  {
+    "ID": "0041",
+    "Arquivo": "sentinela1_041.jpg",
+    "Edicao": 165,
+    "Ano": 1952,
+    "Mes": 11,
+    "Dia": 23
+  },
+  {
+    "ID": "0045",
+    "Arquivo": "sentinela1_045.jpg",
+    "Edicao": 166,
+    "Ano": 1952,
+    "Mes": 12,
+    "Dia": 14
+  },
+  {
+    "ID": "0670",
+    "Arquivo": "sentinela5_001.jpg",
+    "Edicao": 333,
+    "Ano": 1957,
+    "Mes": "01",
+    "Dia": 12
+  },
+  {
+    "ID": "0674",
+    "Arquivo": "sentinela5_005.jpg",
+    "Edicao": 335,
+    "Ano": 1957,
+    "Mes": "01",
+    "Dia": 26
+  },
+  {
+    "ID": "0678",
+    "Arquivo": "sentinela5_009.jpg",
+    "Edicao": 337,
+    "Ano": 1957,
+    "Mes": "02",
+    "Dia": "09"
+  },
+  {
+    "ID": "0770",
+    "Arquivo": "sentinela5_101.jpg",
+    "Edicao": 368,
+    "Ano": 1957,
+    "Mes": 11,
+    "Dia": 23
+  },
+  {
+    "ID": "0774",
+    "Arquivo": "sentinela5_105.jpg",
+    "Edicao": 369,
+    "Ano": 1957,
+    "Mes": 11,
+    "Dia": 30
+  },
+  {
+    "ID": "0778",
+    "Arquivo": "sentinela5_109.jpg",
+    "Edicao": 370,
+    "Ano": 1957,
+    "Mes": 12,
+    "Dia": "07"
+  },
+  {
+    "ID": "0784",
+    "Arquivo": "sentinela5_115.jpg",
+    "Edicao": 371,
+    "Ano": 1957,
+    "Mes": 12,
+    "Dia": 14
+  },
+  {
+    "ID": "0788",
+    "Arquivo": "sentinela5_119.jpg",
+    "Edicao": 372,
+    "Ano": 1957,
+    "Mes": 12,
+    "Dia": 25
+  },
+  {
+    "ID": "0790",
+    "Arquivo": "sentinela5_121.jpg",
+    "Edicao": "sn",
+    "Ano": 1957,
+    "Mes": 12,
+    "Dia": 25
+  },
+  {
+    "ID": "0796",
+    "Arquivo": "sentinela5_127.jpg",
+    "Edicao": 378,
+    "Ano": 1957,
+    "Mes": "01",
+    "Dia": "01"
+  },
+  {
+    "ID": "0682",
+    "Arquivo": "sentinela5_013.jpg",
+    "Edicao": 338,
+    "Ano": 1957,
+    "Mes": "02",
+    "Dia": 16
+  },
+  {
+    "ID": "0800",
+    "Arquivo": "sentinela5_131.jpg",
+    "Edicao": 374,
+    "Ano": 1958,
+    "Mes": "01",
+    "Dia": 11
+  },
+  {
+    "ID": "0804",
+    "Arquivo": "sentinela5_135.jpg",
+    "Edicao": 376,
+    "Ano": 1958,
+    "Mes": "01",
+    "Dia": 25
+  },
+  {
+    "ID": "0808",
+    "Arquivo": "sentinela5_139.jpg",
+    "Edicao": 377,
+    "Ano": 1958,
+    "Mes": "02",
+    "Dia": "01"
+  },
+  {
+    "ID": "0812",
+    "Arquivo": "sentinela5_143.jpg",
+    "Edicao": 380,
+    "Ano": 1958,
+    "Mes": "02",
+    "Dia": 22
+  },
+  {
+    "ID": "0816",
+    "Arquivo": "sentinela5_147.jpg",
+    "Edicao": 381,
+    "Ano": 1958,
+    "Mes": "03",
+    "Dia": "01"
+  },
+  {
+    "ID": "0820",
+    "Arquivo": "sentinela5_151.jpg",
+    "Edicao": 382,
+    "Ano": 1958,
+    "Mes": "03",
+    "Dia": "08"
+  },
+  {
+    "ID": "0824",
+    "Arquivo": "sentinela5_155.jpg",
+    "Edicao": 386,
+    "Ano": 1958,
+    "Mes": "04",
+    "Dia": "05"
+  },
+  {
+    "ID": "0828",
+    "Arquivo": "sentinela5_159.jpg",
+    "Edicao": 387,
+    "Ano": 1958,
+    "Mes": "04",
+    "Dia": 12
+  },
+  {
+    "ID": "0832",
+    "Arquivo": "sentinela5_163.jpg",
+    "Edicao": 388,
+    "Ano": 1958,
+    "Mes": "04",
+    "Dia": 21
+  },
+  {
+    "ID": "0686",
+    "Arquivo": "sentinela5_017.jpg",
+    "Edicao": 340,
+    "Ano": 1957,
+    "Mes": "03",
+    "Dia": "02"
+  },
+  {
+    "ID": "0840",
+    "Arquivo": "sentinela5_171.jpg",
+    "Edicao": 389,
+    "Ano": 1958,
+    "Mes": "04",
+    "Dia": 26
+  },
+  {
+    "ID": "0844",
+    "Arquivo": "sentinela5_175.jpg",
+    "Edicao": 390,
+    "Ano": 1958,
+    "Mes": "05",
+    "Dia": "03"
+  },
+  {
+    "ID": "0848",
+    "Arquivo": "sentinela5_179.jpg",
+    "Edicao": 391,
+    "Ano": 1958,
+    "Mes": "05",
+    "Dia": 10
+  },
+  {
+    "ID": "0852",
+    "Arquivo": "sentinela5_183.jpg",
+    "Edicao": 392,
+    "Ano": 1958,
+    "Mes": "05",
+    "Dia": 17
+  },
+  {
+    "ID": "0856",
+    "Arquivo": "sentinela5_187.jpg",
+    "Edicao": 393,
+    "Ano": 1958,
+    "Mes": "05",
+    "Dia": 24
+  },
+  {
+    "ID": "0860",
+    "Arquivo": "sentinela5_191.jpg",
+    "Edicao": 394,
+    "Ano": 1958,
+    "Mes": "05",
+    "Dia": 31
+  },
+  {
+    "ID": "0864",
+    "Arquivo": "sentinela5_195.jpg",
+    "Edicao": 395,
+    "Ano": 1958,
+    "Mes": "06",
+    "Dia": "07"
+  },
+  {
+    "ID": "0868",
+    "Arquivo": "sentinela5_199.jpg",
+    "Edicao": 396,
+    "Ano": 1958,
+    "Mes": "06",
+    "Dia": 14
+  },
+  {
+    "ID": "0872",
+    "Arquivo": "sentinela5_203.jpg",
+    "Edicao": 398,
+    "Ano": 1958,
+    "Mes": "06",
+    "Dia": 28
+  },
+  {
+    "ID": "0878",
+    "Arquivo": "sentinela5_209.jpg",
+    "Edicao": 399,
+    "Ano": "07",
+    "Mes": "07",
+    "Dia": "05"
+  },
+  {
+    "ID": "0690",
+    "Arquivo": "sentinela5_021.jpg",
+    "Edicao": 341,
+    "Ano": 1957,
+    "Mes": "03",
+    "Dia": "09"
+  },
+  {
+    "ID": "0882",
+    "Arquivo": "sentinela5_213.jpg",
+    "Edicao": 401,
+    "Ano": 1958,
+    "Mes": "07",
+    "Dia": 19
+  },
+  {
+    "ID": "0886",
+    "Arquivo": "sentinela5_217.jpg",
+    "Edicao": 402,
+    "Ano": 1958,
+    "Mes": "07",
+    "Dia": 26
+  },
+  {
+    "ID": "0890",
+    "Arquivo": "sentinela5_221.jpg",
+    "Edicao": 404,
+    "Ano": 1958,
+    "Mes": "08",
+    "Dia": "02"
+  },
+  {
+    "ID": "0894",
+    "Arquivo": "sentinela5_225.jpg",
+    "Edicao": 405,
+    "Ano": 1958,
+    "Mes": "08",
+    "Dia": "09"
+  },
+  {
+    "ID": "0898",
+    "Arquivo": "sentinela5_229.jpg",
+    "Edicao": 406,
+    "Ano": 1958,
+    "Mes": "08",
+    "Dia": 16
+  },
+  {
+    "ID": "0902",
+    "Arquivo": "sentinela5_233.jpg",
+    "Edicao": 407,
+    "Ano": 1958,
+    "Mes": "08",
+    "Dia": 23
+  },
+  {
+    "ID": "0906",
+    "Arquivo": "sentinela5_237.jpg",
+    "Edicao": "409-410",
+    "Ano": 1958,
+    "Mes": "09",
+    "Dia": "7 e 13"
+  },
+  {
+    "ID": "0918",
+    "Arquivo": "sentinela5_249.jpg",
+    "Edicao": 411,
+    "Ano": 1958,
+    "Mes": "09",
+    "Dia": 20
+  },
+  {
+    "ID": "0694",
+    "Arquivo": "sentinela5_025.jpg",
+    "Edicao": 346,
+    "Ano": 1957,
+    "Mes": "04",
+    "Dia": 13
+  },
+  {
+    "ID": "0926",
+    "Arquivo": "sentinela5_257.jpg",
+    "Edicao": 413,
+    "Ano": 1958,
+    "Mes": 10,
+    "Dia": "03"
+  },
+  {
+    "ID": "0930",
+    "Arquivo": "sentinela5_261.jpg",
+    "Edicao": 414,
+    "Ano": 1958,
+    "Mes": 11,
+    "Dia": "08"
+  },
+  {
+    "ID": "0934",
+    "Arquivo": "sentinela5_265.jpg",
+    "Edicao": 415,
+    "Ano": 1958,
+    "Mes": 11,
+    "Dia": 15
+  },
+  {
+    "ID": "0938",
+    "Arquivo": "sentinela5_269.jpg",
+    "Edicao": 417,
+    "Ano": 1958,
+    "Mes": 11,
+    "Dia": 29
+  },
+  {
+    "ID": "0942",
+    "Arquivo": "sentinela5_273.jpg",
+    "Edicao": 418,
+    "Ano": 1958,
+    "Mes": 12,
+    "Dia": "06"
+  },
+  {
+    "ID": "0948",
+    "Arquivo": "sentinela5_279.jpg",
+    "Edicao": 419,
+    "Ano": 1958,
+    "Mes": 12,
+    "Dia": 13
+  },
+  {
+    "ID": "0952",
+    "Arquivo": "sentinela5_283.jpg",
+    "Edicao": 395,
+    "Ano": 1958,
+    "Mes": "06",
+    "Dia": "07"
+  },
+  {
+    "ID": "0956",
+    "Arquivo": "sentinela5_287.jpg",
+    "Edicao": 396,
+    "Ano": 1958,
+    "Mes": "06",
+    "Dia": 14
+  },
+  {
+    "ID": "0698",
+    "Arquivo": "sentinela5_029.jpg",
+    "Edicao": 348,
+    "Ano": 1957,
+    "Mes": "04",
+    "Dia": 27
+  },
+  {
+    "ID": "0960",
+    "Arquivo": "sentinela5_291.jpg",
+    "Edicao": 401,
+    "Ano": 1958,
+    "Mes": "07",
+    "Dia": 19
+  },
+  {
+    "ID": "0964",
+    "Arquivo": "sentinela5_295.jpg",
+    "Edicao": 402,
+    "Ano": 1958,
+    "Mes": "07",
+    "Dia": 26
+  },
+  {
+    "ID": "0968",
+    "Arquivo": "sentinela5_299.jpg",
+    "Edicao": 404,
+    "Ano": 1958,
+    "Mes": "08",
+    "Dia": "02"
+  },
+  {
+    "ID": "0972",
+    "Arquivo": "sentinela5_303.jpg",
+    "Edicao": 405,
+    "Ano": 1958,
+    "Mes": "08",
+    "Dia": "09"
+  },
+  {
+    "ID": "0976",
+    "Arquivo": "sentinela5_307.jpg",
+    "Edicao": 406,
+    "Ano": 1958,
+    "Mes": "08",
+    "Dia": 16
+  },
+  {
+    "ID": "0980",
+    "Arquivo": "sentinela5_311.jpg",
+    "Edicao": 407,
+    "Ano": 1958,
+    "Mes": "08",
+    "Dia": 23
+  },
+  {
+    "ID": "0984",
+    "Arquivo": "sentinela5_315.jpg",
+    "Edicao": 411,
+    "Ano": "",
+    "Mes": "09",
+    "Dia": ""
+  },
+  {
+    "ID": "0992",
+    "Arquivo": "sentinela5_323.jpg",
+    "Edicao": 413,
+    "Ano": 1958,
+    "Mes": 10,
+    "Dia": "03"
+  },
+  {
+    "ID": "0996",
+    "Arquivo": "sentinela5_327.jpg",
+    "Edicao": 414,
+    "Ano": "",
+    "Mes": 11,
+    "Dia": ""
+  },
+  {
+    "ID": "0702",
+    "Arquivo": "sentinela5_033.jpg",
+    "Edicao": 349,
+    "Ano": 1957,
+    "Mes": "05",
+    "Dia": "04"
+  },
+  {
+    "ID": 1000,
+    "Arquivo": "sentinela5_331.jpg",
+    "Edicao": 415,
+    "Ano": 1958,
+    "Mes": 11,
+    "Dia": 15
+  },
+  {
+    "ID": 1004,
+    "Arquivo": "sentinela5_335.jpg",
+    "Edicao": 417,
+    "Ano": 1958,
+    "Mes": 11,
+    "Dia": 29
+  },
+  {
+    "ID": 1008,
+    "Arquivo": "sentinela5_339.jpg",
+    "Edicao": 418,
+    "Ano": 1958,
+    "Mes": 12,
+    "Dia": "06"
+  },
+  {
+    "ID": 1014,
+    "Arquivo": "sentinela5_345.jpg",
+    "Edicao": 419,
+    "Ano": 1958,
+    "Mes": 12,
+    "Dia": 13
+  },
+  {
+    "ID": 1018,
+    "Arquivo": "sentinela5_349.jpg",
+    "Edicao": 428,
+    "Ano": "",
+    "Mes": "02",
+    "Dia": ""
+  },
+  {
+    "ID": 1022,
+    "Arquivo": "sentinela5_353.jpg",
+    "Edicao": 430,
+    "Ano": "",
+    "Mes": "02",
+    "Dia": ""
+  },
+  {
+    "ID": 1026,
+    "Arquivo": "sentinela5_357.jpg",
+    "Edicao": 431,
+    "Ano": "",
+    "Mes": "03",
+    "Dia": ""
+  },
+  {
+    "ID": 1030,
+    "Arquivo": "sentinela5_361.jpg",
+    "Edicao": 432,
+    "Ano": 1959,
+    "Mes": "03",
+    "Dia": 14
+  },
+  {
+    "ID": 1034,
+    "Arquivo": "sentinela5_365.jpg",
+    "Edicao": 433,
+    "Ano": 1959,
+    "Mes": "03",
+    "Dia": 21
+  },
+  {
+    "ID": 1038,
+    "Arquivo": "sentinela5_369.jpg",
+    "Edicao": 434,
+    "Ano": 1959,
+    "Mes": "03",
+    "Dia": 28
+  },
+  {
+    "ID": "0706",
+    "Arquivo": "sentinela5_037.jpg",
+    "Edicao": 350,
+    "Ano": 1957,
+    "Mes": "05",
+    "Dia": 11
+  },
+  {
+    "ID": 1042,
+    "Arquivo": "sentinela5_373.jpg",
+    "Edicao": 435,
+    "Ano": "",
+    "Mes": "04",
+    "Dia": ""
+  },
+  {
+    "ID": 1046,
+    "Arquivo": "sentinela5_377.jpg",
+    "Edicao": 436,
+    "Ano": "",
+    "Mes": "04",
+    "Dia": ""
+  },
+  {
+    "ID": 1050,
+    "Arquivo": "sentinela5_381.jpg",
+    "Edicao": 437,
+    "Ano": "",
+    "Mes": "04",
+    "Dia": ""
+  },
+  {
+    "ID": 1058,
+    "Arquivo": "sentinela5_389.jpg",
+    "Edicao": 438,
+    "Ano": "",
+    "Mes": "04",
+    "Dia": ""
+  },
+  {
+    "ID": 1062,
+    "Arquivo": "sentinela5_393.jpg",
+    "Edicao": 446,
+    "Ano": 1959,
+    "Mes": "05",
+    "Dia": "09"
+  },
+  {
+    "ID": 1066,
+    "Arquivo": "sentinela5_397.jpg",
+    "Edicao": 441,
+    "Ano": 1959,
+    "Mes": "05",
+    "Dia": 16
+  },
+  {
+    "ID": 1070,
+    "Arquivo": "sentinela5_401.jpg",
+    "Edicao": 442,
+    "Ano": "",
+    "Mes": "05",
+    "Dia": ""
+  },
+  {
+    "ID": 1074,
+    "Arquivo": "sentinela5_405.jpg",
+    "Edicao": 443,
+    "Ano": 1959,
+    "Mes": "05",
+    "Dia": 30
+  },
+  {
+    "ID": 1078,
+    "Arquivo": "sentinela5_409.jpg",
+    "Edicao": 444,
+    "Ano": 1959,
+    "Mes": "06",
+    "Dia": "06"
+  },
+  {
+    "ID": "0710",
+    "Arquivo": "sentinela5_041.jpg",
+    "Edicao": 351,
+    "Ano": 1957,
+    "Mes": "05",
+    "Dia": 18
+  },
+  {
+    "ID": 1082,
+    "Arquivo": "sentinela5_413.jpg",
+    "Edicao": 445,
+    "Ano": 1959,
+    "Mes": "06",
+    "Dia": 13
+  },
+  {
+    "ID": 1086,
+    "Arquivo": "sentinela5_417.jpg",
+    "Edicao": 448,
+    "Ano": 1959,
+    "Mes": "07",
+    "Dia": "04"
+  },
+  {
+    "ID": 1090,
+    "Arquivo": "sentinela5_421.jpg",
+    "Edicao": 449,
+    "Ano": 1959,
+    "Mes": "07",
+    "Dia": 11
+  },
+  {
+    "ID": 1094,
+    "Arquivo": "sentinela5_425.jpg",
+    "Edicao": 450,
+    "Ano": 1959,
+    "Mes": "07",
+    "Dia": 18
+  },
+  {
+    "ID": 1098,
+    "Arquivo": "sentinela5_429.jpg",
+    "Edicao": 451,
+    "Ano": 1959,
+    "Mes": "07",
+    "Dia": 25
+  },
+  {
+    "ID": 1102,
+    "Arquivo": "sentinela5_433.jpg",
+    "Edicao": 456,
+    "Ano": "",
+    "Mes": "08",
+    "Dia": ""
+  },
+  {
+    "ID": 1106,
+    "Arquivo": "sentinela5_437.jpg",
+    "Edicao": "456b",
+    "Ano": "",
+    "Mes": "08",
+    "Dia": ""
+  },
+  {
+    "ID": 1110,
+    "Arquivo": "sentinela5_441.jpg",
+    "Edicao": 457,
+    "Ano": 1959,
+    "Mes": "09",
+    "Dia": "03"
+  },
+  {
+    "ID": 1118,
+    "Arquivo": "sentinela5_449.jpg",
+    "Edicao": 462,
+    "Ano": "",
+    "Mes": "",
+    "Dia": ""
+  },
+  {
+    "ID": "0714",
+    "Arquivo": "sentinela5_045.jpg",
+    "Edicao": 353,
+    "Ano": 1957,
+    "Mes": "06",
+    "Dia": "01"
+  },
+  {
+    "ID": 1122,
+    "Arquivo": "sentinela5_453.jpg",
+    "Edicao": 464,
+    "Ano": 1959,
+    "Mes": 12,
+    "Dia": "XX"
+  },
+  {
+    "ID": "0726",
+    "Arquivo": "sentinela5_057.jpg",
+    "Edicao": 355,
+    "Ano": 1957,
+    "Mes": "08",
+    "Dia": 24
+  },
+  {
+    "ID": "0734",
+    "Arquivo": "sentinela5_065.jpg",
+    "Edicao": 357,
+    "Ano": 1957,
+    "Mes": "09",
+    "Dia": "07"
+  },
+  {
+    "ID": "0742",
+    "Arquivo": "sentinela5_073.jpg",
+    "Edicao": 358,
+    "Ano": 1957,
+    "Mes": "09",
+    "Dia": 14
+  },
+  {
+    "ID": "0746",
+    "Arquivo": "sentinela5_077.jpg",
+    "Edicao": 359,
+    "Ano": 1957,
+    "Mes": "09",
+    "Dia": 21
+  },
+  {
+    "ID": "0750",
+    "Arquivo": "sentinela5_081.jpg",
+    "Edicao": 362,
+    "Ano": 1957,
+    "Mes": 10,
+    "Dia": 12
+  },
+  {
+    "ID": "0754",
+    "Arquivo": "sentinela5_085.jpg",
+    "Edicao": 363,
+    "Ano": 1957,
+    "Mes": 10,
+    "Dia": 19
+  },
+  {
+    "ID": "0758",
+    "Arquivo": "sentinela5_089.jpg",
+    "Edicao": 364,
+    "Ano": 1957,
+    "Mes": 10,
+    "Dia": 26
+  },
+  {
+    "ID": "0762",
+    "Arquivo": "sentinela5_093.jpg",
+    "Edicao": 366,
+    "Ano": 1957,
+    "Mes": 11,
+    "Dia": "09"
+  },
+  {
+    "ID": "0766",
+    "Arquivo": "sentinela5_097.jpg",
+    "Edicao": 367,
+    "Ano": 1957,
+    "Mes": 11,
+    "Dia": 16
+  },
+  {
+    "ID": 1126,
+    "Arquivo": "sentinela6_001.jpg",
+    "Edicao": 426,
+    "Ano": 1959,
+    "Mes": "01",
+    "Dia": 31
+  },
+  {
+    "ID": 1130,
+    "Arquivo": "sentinela6_005.jpg",
+    "Edicao": 428,
+    "Ano": 1959,
+    "Mes": "02",
+    "Dia": 14
+  },
+  {
+    "ID": 1134,
+    "Arquivo": "sentinela6_009.jpg",
+    "Edicao": 429,
+    "Ano": 1959,
+    "Mes": "02",
+    "Dia": 21
+  },
+  {
+    "ID": 1226,
+    "Arquivo": "sentinela6_101.jpg",
+    "Edicao": 456,
+    "Ano": 1959,
+    "Mes": "08",
+    "Dia": 22
+  },
+  {
+    "ID": 1230,
+    "Arquivo": "sentinela6_105.jpg",
+    "Edicao": "456b",
+    "Ano": 1959,
+    "Mes": "08",
+    "Dia": 29
+  },
+  {
+    "ID": 1234,
+    "Arquivo": "sentinela6_109.jpg",
+    "Edicao": 467,
+    "Ano": 1959,
+    "Mes": "09",
+    "Dia": "03"
+  },
+  {
+    "ID": 1242,
+    "Arquivo": "sentinela6_117.jpg",
+    "Edicao": 464,
+    "Ano": "",
+    "Mes": "",
+    "Dia": ""
+  },
+  {
+    "ID": 1246,
+    "Arquivo": "sentinela6_121.jpg",
+    "Edicao": 462,
+    "Ano": 1959,
+    "Mes": "XX",
+    "Dia": "XX"
+  },
+  {
+    "ID": 1252,
+    "Arquivo": "sentinela6_127.jpg",
+    "Edicao": 461,
+    "Ano": 1960,
+    "Mes": 10,
+    "Dia": "XX"
+  },
+  {
+    "ID": 1138,
+    "Arquivo": "sentinela6_013.jpg",
+    "Edicao": 430,
+    "Ano": 1959,
+    "Mes": "02",
+    "Dia": 28
+  },
+  {
+    "ID": 1256,
+    "Arquivo": "sentinela6_131.jpg",
+    "Edicao": "462b",
+    "Ano": 1959,
+    "Mes": 11,
+    "Dia": "XX"
+  },
+  {
+    "ID": 1260,
+    "Arquivo": "sentinela6_135.jpg",
+    "Edicao": "462c",
+    "Ano": "",
+    "Mes": "",
+    "Dia": ""
+  },
+  {
+    "ID": 1264,
+    "Arquivo": "sentinela6_139.jpg",
+    "Edicao": 468,
+    "Ano": 1960,
+    "Mes": "01",
+    "Dia": 24
+  },
+  {
+    "ID": 1268,
+    "Arquivo": "sentinela6_143.jpg",
+    "Edicao": 475,
+    "Ano": 1960,
+    "Mes": "01",
+    "Dia": 31
+  },
+  {
+    "ID": 1272,
+    "Arquivo": "sentinela6_147.jpg",
+    "Edicao": 476,
+    "Ano": 1960,
+    "Mes": "02",
+    "Dia": "07"
+  },
+  {
+    "ID": 1276,
+    "Arquivo": "sentinela6_151.jpg",
+    "Edicao": 477,
+    "Ano": 1960,
+    "Mes": "02",
+    "Dia": 14
+  },
+  {
+    "ID": 1142,
+    "Arquivo": "sentinela6_017.jpg",
+    "Edicao": 431,
+    "Ano": 1959,
+    "Mes": "03",
+    "Dia": "07"
+  },
+  {
+    "ID": 1146,
+    "Arquivo": "sentinela6_021.jpg",
+    "Edicao": 432,
+    "Ano": "",
+    "Mes": "",
+    "Dia": ""
+  },
+  {
+    "ID": 1150,
+    "Arquivo": "sentinela6_025.jpg",
+    "Edicao": 433,
+    "Ano": "",
+    "Mes": "",
+    "Dia": ""
+  },
+  {
+    "ID": 1154,
+    "Arquivo": "sentinela6_029.jpg",
+    "Edicao": 434,
+    "Ano": "",
+    "Mes": "",
+    "Dia": ""
+  },
+  {
+    "ID": 1158,
+    "Arquivo": "sentinela6_033.jpg",
+    "Edicao": 435,
+    "Ano": 1959,
+    "Mes": "04",
+    "Dia": "04"
+  },
+  {
+    "ID": 1162,
+    "Arquivo": "sentinela6_037.jpg",
+    "Edicao": 436,
+    "Ano": 1959,
+    "Mes": "04",
+    "Dia": 11
+  },
+  {
+    "ID": 1166,
+    "Arquivo": "sentinela6_041.jpg",
+    "Edicao": 437,
+    "Ano": 1959,
+    "Mes": "04",
+    "Dia": 21
+  },
+  {
+    "ID": 1174,
+    "Arquivo": "sentinela6_049.jpg",
+    "Edicao": 438,
+    "Ano": 1959,
+    "Mes": "04",
+    "Dia": 25
+  },
+  {
+    "ID": 1178,
+    "Arquivo": "sentinela6_053.jpg",
+    "Edicao": 439,
+    "Ano": 1959,
+    "Mes": "05",
+    "Dia": "02"
+  },
+  {
+    "ID": 1182,
+    "Arquivo": "sentinela6_057.jpg",
+    "Edicao": 440,
+    "Ano": 1959,
+    "Mes": "05",
+    "Dia": "09"
+  },
+  {
+    "ID": 1186,
+    "Arquivo": "sentinela6_061.jpg",
+    "Edicao": 441,
+    "Ano": "",
+    "Mes": "",
+    "Dia": ""
+  },
+  {
+    "ID": 1190,
+    "Arquivo": "sentinela6_065.jpg",
+    "Edicao": 442,
+    "Ano": 1959,
+    "Mes": "05",
+    "Dia": 23
+  },
+  {
+    "ID": 1194,
+    "Arquivo": "sentinela6_069.jpg",
+    "Edicao": 443,
+    "Ano": "",
+    "Mes": "",
+    "Dia": ""
+  },
+  {
+    "ID": 1198,
+    "Arquivo": "sentinela6_073.jpg",
+    "Edicao": 444,
+    "Ano": "",
+    "Mes": "",
+    "Dia": ""
+  },
+  {
+    "ID": 1202,
+    "Arquivo": "sentinela6_077.jpg",
+    "Edicao": 445,
+    "Ano": "",
+    "Mes": "",
+    "Dia": ""
+  },
+  {
+    "ID": 1206,
+    "Arquivo": "sentinela6_081.jpg",
+    "Edicao": 447,
+    "Ano": 1959,
+    "Mes": "06",
+    "Dia": 27
+  },
+  {
+    "ID": 1210,
+    "Arquivo": "sentinela6_085.jpg",
+    "Edicao": 448,
+    "Ano": "",
+    "Mes": "",
+    "Dia": ""
+  },
+  {
+    "ID": 1214,
+    "Arquivo": "sentinela6_089.jpg",
+    "Edicao": 449,
+    "Ano": "",
+    "Mes": "",
+    "Dia": ""
+  },
+  {
+    "ID": 1218,
+    "Arquivo": "sentinela6_093.jpg",
+    "Edicao": 450,
+    "Ano": "",
+    "Mes": "",
+    "Dia": ""
+  },
+  {
+    "ID": 1222,
+    "Arquivo": "sentinela6_097.jpg",
+    "Edicao": 451,
+    "Ano": "",
+    "Mes": "",
+    "Dia": ""
+  },
+  {
+    "ID": "0061",
+    "Arquivo": "sentinela1_061.jpg",
+    "Edicao": 169,
+    "Ano": 1953,
+    "Mes": "01",
+    "Dia": 25
+  },
+  {
+    "ID": "0065",
+    "Arquivo": "sentinela1_065.jpg",
+    "Edicao": 172,
+    "Ano": 1953,
+    "Mes": "03",
+    "Dia": 15
+  },
+  {
+    "ID": "0069",
+    "Arquivo": "sentinela1_069.jpg",
+    "Edicao": 175,
+    "Ano": 1953,
+    "Mes": "04",
+    "Dia": 26
+  }
+]
